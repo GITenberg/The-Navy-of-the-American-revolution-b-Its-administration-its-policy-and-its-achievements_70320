@@ -1,0 +1,28 @@
+_repo: The-Navy-of-the-American-revolution-b-Its-administration-its-policy-and-its-achievements_70320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paullin, Charles Oscar
+    gutenberg_agent_id: '55704'
+    url: http://www.gutenberg.org/2009/agents/55704
+description: ''
+gutenberg_issued: '2023-03-18'
+identifiers:
+  gutenberg: '70320'
+language: en
+pgterms:marc904: https://archive.org/details/navyamerrevol00paulrich
+pgterms:marc905: 20190916152433paullin
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Bob Taylor, Richard Tonsing and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Burrows Brothers Company, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Navy of the American revolution : $b Its administration, its policy, and
+  its achievements'
+url: http://www.gutenberg.org/ebooks/70320
