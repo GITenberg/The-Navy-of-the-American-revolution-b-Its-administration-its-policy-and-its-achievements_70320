@@ -1,11 +1,16 @@
 _repo: The-Navy-of-the-American-revolution-b-Its-administration-its-policy-and-its-achievements_70320
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70320-h/images/cover.jpg
 creator:
   author:
     agent_name: Paullin, Charles Oscar
     gutenberg_agent_id: '55704'
     url: http://www.gutenberg.org/2009/agents/55704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70320#The-Navy-of-the-American-revolution-b-Its-administration-its-policy-and-its-achievements
 gutenberg_issued: '2023-03-18'
 identifiers:
   gutenberg: '70320'
